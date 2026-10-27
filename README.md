@@ -13,11 +13,11 @@ Businesses need to understand which customers generate value, how frequently cus
 - Develop actionable business recommendations from the analysis.
 
 ## Tools & Technologies
-SQL / MySQL: Data validation, cleaning, transformation, and querying
-Python: Data analysis and customer segmentation 
-Pandas: Data manipulation and RFM calculations 
-Jupyter Notebook: Analysis workflow and documentation 
-Power BI: Planned interactive dashboard and business reporting 
+-SQL / MySQL: Data validation, cleaning, transformation, and querying.
+-Python: Data analysis and customer segmentation.
+-Pandas: Data manipulation and RFM calculations.
+-Jupyter Notebook: Analysis workflow and documentation. 
+-Power BI: Planned interactive dashboard and business reporting. 
 
 ## Project Workflow
 1. **Data Preparation:** Inspect transaction data, validate columns, and handle data quality issues.
